@@ -1,0 +1,9 @@
+[Core]
+Name = Quote
+Module = quote
+
+[Documentation]
+Description = Return quote from https://zenquotes.io/
+
+[Python]
+Version = 3
